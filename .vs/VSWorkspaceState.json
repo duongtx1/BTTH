@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ThucHanhWebMVC",
+    "\\ThucHanhWebMVC\\Areas",
+    "\\ThucHanhWebMVC\\Areas\\Admin",
+    "\\ThucHanhWebMVC\\Areas\\Admin\\Controllers",
+    "\\ThucHanhWebMVC\\Properties",
+    "\\ThucHanhWebMVC\\ViewModels",
+    "\\ThucHanhWebMVC\\Views",
+    "\\ThucHanhWebMVC\\Views\\Home"
+  ],
+  "SelectedNode": "\\ThucHanhWebMVC\\Views\\Home\\Index.cshtml",
+  "PreviewInSolutionExplorer": false
+}
